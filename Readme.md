@@ -1,2 +1,3 @@
 SpringBoot基础框架
 通过通用Mapper实现CRUD
+需要根据自己mysql配置修改密码
