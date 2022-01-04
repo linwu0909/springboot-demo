@@ -3,8 +3,8 @@ server:
 spring:
   datasource:
     username: root
-    password: 12345678
-    url: jdbc:mysql://127.0.0.1:3306/test
+    password:
+    url: jdbc:mysql://127.0.0.1:3306/question
     driver-class-name: com.mysql.jdbc.Driver
     hikari:
       idle-timeout: 60000
